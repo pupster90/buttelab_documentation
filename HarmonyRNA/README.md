@@ -4,7 +4,7 @@ This is an overview of the HarmonyRNA project. This documentation is for researc
 
 ## HarmonyRNA Resources
 
-* [Website](http://harmonyrna.ucsf.edu/): This is the HarmonyRNA website. This documentation explains how this website is built so that researchers and programmers to understand how this website is built so that they can begin building their own version of it.
+* [Website](http://harmonyrna.ucsf.edu/): This is the HarmonyRNA website. This documentation explains how this website is built so that researchers and programmers  can build their own version of 10k Immunomes.
 * [Video Tutorial](https://youtu.be/lm3t6yaIlV8): This video tutorial is a beginners overview of what the HarmonyRNA is about and how to use it. Watching the video is the best way to begin learning about harmonyRNA. The video shows how to harmonize data steb-by-step using an example dataset.
 * [Paper](https://drive.google.com/file/d/16xouMFAHRIXzRuIgKzalHpPLNAwJRUgS/view?usp=sharing): This is a preprint paper describing HarmonyRNA (to be published in Bioinformatics). Reading the paper is a good way to learn more about the purpose of 10k Immunomes. It also describes the novel TPM harmonization algorithm that was created for HarmonyRNA. You may also be interested in reading the [supplemental material](https://drive.google.com/file/d/1BjGXj2Do185-p6RNSwJMO4RS6djdJ4G1/view?usp=sharing).
 * [Source Code](https://github.com/pupster90/harmonyrna): This github repo contains all of the source code. It's useful for scanning through the files, however, we **highly** reccomend using the dockerhub image when working on code. The github repo also has README files that provide thorough descriptions about all the source files.
