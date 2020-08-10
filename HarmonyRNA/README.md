@@ -19,7 +19,7 @@ This is an overview of the HarmonyRNA project. This documentation is for reserch
 
 
 
-## Contact
+## Help and Contact
 
 
 
