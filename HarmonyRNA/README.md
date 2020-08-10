@@ -10,16 +10,16 @@ This is an overview of the HarmonyRNA project. This documentation is for reserch
 * [Github](https://github.com/pupster90/harmonyrna): This github repo contains all of the source code. It's useful for scanning through the files. However, I HIGHLY reccomend using the dockerhub image when working on code. The github repo also has README files that provide thorough descriptions about all the source files.
 * [10k Immunomes Documentation](https://github.com/pupster90/buttelab_documentation/tree/master/10kImmunomes): HarmonyRNA was used to harmonize data from the 10k Immuomes project. The 10k Immunoms data is also the example dataset that's up on the website and that's used in the tutorial video. To learn more about 10k Immuomes, you should read it's documentation.
 
-### Getting Started
+## Getting Started
 
 
 
-### Editing Code
+## Editing Code
 
 
 
 
-### Help and Contact
+## Help and Contact
 
 
 
