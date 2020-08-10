@@ -6,7 +6,7 @@ This is an overview of the 10k Immunomes project. This documentation is for rese
 ## 10k Immunomes Resources
 
 * [Website](https://10kimmunomes.ucsf.edu/): This is the 10k Immunomes website. This documentation explains how this website is built so that researchers and programmers can build their own version of 10k Immunomes.
-* [Video Tutorial](https://youtu.be/pwBs4J4xDOw): This video tutorial is a beginners overview of what 10k Immunomes is about and how to use it. Watching the video is the best way to begin learning about 10k Immunomes. The video shows gives a step-by-bstep example of how 10k Immunomes can you used help researchers.
+* [Video Tutorial](https://youtu.be/pwBs4J4xDOw): This video tutorial is a beginners overview of what 10k Immunomes is about and how to use it. Watching the video is the best way to begin learning about 10k Immunomes. The video shows gives a step-by-step example of how 10k Immunomes can be used for research.
 * [Published Paper](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31451-7.pdf): This is a published describing 10k Immunomes. Rading the paper is a good way to learn more about the purpose of 10k Immunomes.
 * [Source Code](https://github.com/pupster90/10k_Immunomes): This github repo contains all of the source code. It's useful for scanning through the files. However, I HIGHLY reccomend using the dockerhub image when working on code.
 * [Dockerhub](https://hub.docker.com/r/pupster90/10kimmunomes/tags): This docker image is by far the easiest way to start working on this project. It contains a detailed step by step tutorial on how to get website up and running, how to edit code, and how to publish final results to the server.
