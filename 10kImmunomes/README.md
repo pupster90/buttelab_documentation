@@ -14,7 +14,7 @@ This is an overview of the 10k Immunomes project. This documentation is for rese
 
 ## Getting Started
 
-The best way to get started is by learning to use HarmonyRNA as if you were a user. This way you undertand the purpose of the project. Briefly visit the website, then watch the tutorial video. Follow the steps in the video tutorial to harmonize the example dataset. After this, read the HarmonyRNA paper and supplmentary material to learn the basic architecture of the Harmony website and to learn the methodology behnd its algorithm. Once these steps are done you can then move on to gain a deeper understanding of the code.
+The best way to get started is by learning to use 10k Immunomes as if you were a user. This way you undertand the purpose of the project. Briefly visit the website, then watch the tutorial video. If you intend to add additional datasets to 10k Immunomes, you must become familiar with [ImmPort](https://www.immport.org/about). Create an ImmPort account then try searching for a study and downloading all the raw datasets from it. Once these steps are done you can then move on to gain a deeper understanding of the code.
 
 ## Editing Code
 
