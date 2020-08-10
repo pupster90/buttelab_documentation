@@ -24,7 +24,7 @@ If you are interested in the example datasets used in the HarmonyRNA tutorial an
 
 ## Help and Contact
 
-If you are another lab interested in the 10k Immunomes, we are happy to have you reach out to [Atul Butte's lab](https://buttelab.ucsf.edu/). Sanchita Bhattacharya is the senior scientist and manager of this project (email: Sanchita.Bhattacharya@ucsf.edu). 
+If you are another lab interested in HarmonyRNA, we are happy to have you reach out to [Atul Butte's lab](https://buttelab.ucsf.edu/). Sanchita Bhattacharya is the senior scientist and manager of this project (email: Sanchita.Bhattacharya@ucsf.edu). If you are a programmer with technical questions please reach out to the senior programmer of HarmonyRNA, Matthew Elliott (email: melliot1@ucsc.edu).
 
 
 
