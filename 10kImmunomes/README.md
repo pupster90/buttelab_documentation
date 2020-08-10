@@ -1,8 +1,10 @@
 # 10k Immunomes Documentation
 
-This is an overview of the harmonyRNA project. This documentation is for reserchers who intend to develop the project further. HarmonyRNA is a web tool for harmonizing RNA-Seq data in TPM and Counts format.
+This is an overview of the 10k Immunomes project. This documentation is for researchers who intend to develop the project further. 10k Immunomes is a web portal where immunologists can explore immunologic reference datasets from healthy control subjects. This documentation provides an introduction to the project and then gives instructions on how to code your own version of 10k Immunomes.
 
-**List of 10k Immunomes Resources**
+
+## 10k Immunomes Resources
+
 * [Website](https://10kimmunomes.ucsf.edu/): This is the 10k Immunomes website. The purpose of all this documentation is to allow you to understand how this website is built so that you can begin building you own version.
 * [Video Tutorial](https://youtu.be/pwBs4J4xDOw): This video tutorial is a beginners overview of what the 10k Immunoems project is about. Watching the video is the best way to starting learning about 10k Immunomes.
 * [Published Paper](https://www.cell.com/cell-reports/pdf/S2211-1247(18)31451-7.pdf): This is a published describing 10k Immunomes. Rading the paper is a good way to learn more about the purpose of 10k Immunomes.
