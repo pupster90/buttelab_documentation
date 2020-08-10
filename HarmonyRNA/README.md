@@ -12,10 +12,13 @@ This is an overview of the HarmonyRNA project. This documentation is for reserch
 
 ## Getting Started
 
-
+The best way to get started is bying learning to use HarmonyRNA as if you were a user. This way you undertand the purpose of the project. Briefly visit the website, then watch the tutorial video. Follow the steps in the video tutorial to harmonize the example dataset. After this, read the HarmonyRNA paper and supplmentary material to learn the basic architectue of the Harmony website and to learn the methodology behnd its algorithm. Once these steps are done you can then move on to gain a deeper understanding of the HarmonyRNA code if you like.
 
 ## Editing Code
 
+HarmonyRNA source code is available on Github and Dockerhub. The README files on Github is a great place to learn about what the different files are in HarmonyRNA and where the best place is to start coding. However, please do not attempt to replicate HarmonyRNA by first cloning the Github repo. HarmonyRNA is an [R Shiny](https://shiny.rstudio.com/tutorial/) website with very specific settings and very specific packages installed. If you don't know what R shiny is, go through a few of the practice tutorials on their official site. After that, go to the HarmonyRNA [dockerhub](https://www.docker.com/products/docker-hub#:~:text=Docker%20Hub%20is%20a%20hosted,push%20them%20to%20Docker%20Hub) and follow the steps there to launch an [R Shiny Server](https://shiny.rstudio.com/articles/shiny-server.html) where you can run HarmonyRNA locally. [Docker](https://docs.docker.com/get-started/) is a tool that allows you to launch little pre-set-up "mini computers" from your computer. With the docker tutorial you can launch HarmonyRNA in minutes. This will save you weeks are work and stress. 
+
+If you are interested in the example datasets used in the HarmonyRNA tutorial and would like to learn more about them, I recommend you read the 10k Immunomes documentation. The 
 
 
 
