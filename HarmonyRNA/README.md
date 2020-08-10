@@ -1,6 +1,6 @@
 # HarmonyRNA Documentation
 
-This is an overview of the HarmonyRNA project. This documentation is for reserchers who intend to develop the project further. HarmonyRNA is a web tool for harmonizing RNA-Seq data in TPM and counts format. This documentation provides an introduction to the project and then gives advice on how to go about coding your own version of HarmonyRNA. Below is a list of all available resources related to HarmonyRNA:
+This is an overview of the HarmonyRNA project. This documentation is for reserchers who intend to develop the project further. HarmonyRNA is a web tool for harmonizing RNA-Seq data in TPM and counts format. This documentation provides an introduction to the project and then gives instructions on how to code your own version of HarmonyRNA. Below is a list of all available resources related to HarmonyRNA:
 
 **List of HarmonyRNA Resources**
 * [Website](http://harmonyrna.ucsf.edu/): This is the HarmonyRNA website. The purpose of this documentation is to allow researchers and programmers to understand how this website is built so that they can begin building their own version of it.
